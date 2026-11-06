@@ -112,6 +112,10 @@ The app makes no AI requests, fetches no sources, and collects no analytics. Inp
 
 Hong Zhan is the project owner and research applicant. OpenAI Codex assisted with implementation, documentation drafting, literature lookup and automated verification in November 2026. The project must not be described as unaided implementation, an evaluated HCI intervention, or a published empirical contribution. The owner should review the code and study protocol and be able to explain them before using this project in applications. No study results, participants, interviews or statistical findings were generated.
 
+## Owner walkthrough
+
+A concise [Chinese explanation guide](docs/OWNER_GUIDE_ZH.md) covers the data model, implementation, construct boundaries and how to explain the study design. The [admissions-oriented critical assessment](docs/APPLICATION_REVIEW.md) and [97-word CV description](docs/CV_DESCRIPTION.md) distinguish implemented work from untested effects.
+
 ## License
 
 Code and project documentation: [MIT](LICENSE). Third-party packages retain their own licenses. Cited papers are linked rather than redistributed. The separately referenced Reddit research project is governed by its own materials and licenses.

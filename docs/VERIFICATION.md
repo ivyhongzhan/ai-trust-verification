@@ -53,4 +53,8 @@ npm audit --audit-level=high
 
 If the browser download is unavailable, explicitly point `PLAYWRIGHT_EXECUTABLE_PATH` to an existing Chromium-compatible browser and disclose that substitution. Do not count a failed install or unexecuted test as PASS.
 
-Deployment and CI evidence is recorded below after publication.
+## CI and public publication
+
+The initial clean Linux run passed unit tests, production build, bundled Chromium installation, all 7 browser tests, and dependency audit: [GitHub Actions run 42234473913](https://github.com/ivyhongzhan/ai-trust-verification/actions/runs/42234473913). This provides an independent environment check beyond the local installed-Chrome substitution. The workflow also publishes the tested static bundle to GitHub Pages. Its action versions were subsequently updated to verified current releases to remove the observed Node 20 deprecation warnings; inspect the repository’s latest run for current deployment status.
+
+A fresh local `npm ci` also completed successfully, followed by 13 passing unit tests and a successful production build. Public demo URL: https://ivyhongzhan.github.io/ai-trust-verification/. No participant or behavioral results are implied by software CI or deployment.
