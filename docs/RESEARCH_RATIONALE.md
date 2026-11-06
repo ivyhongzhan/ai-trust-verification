@@ -1,7 +1,7 @@
 # Research rationale
 
 **AI Trust & Verification — An Interactive Research Prototype**
-Hong Zhan · 6 November 2026 · Implemented, not empirically evaluated
+Hong Zhan · October 2026 · Implemented, not empirically evaluated
 
 ## Research question
 
