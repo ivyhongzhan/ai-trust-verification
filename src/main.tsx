@@ -235,7 +235,8 @@ function App() {
             <strong>From expression to practice</strong>
             <p>
               How people examine evidence and decide whether to use an AI answer
-              remains unmeasured by Paper 1.
+              was not measured in{" "}
+              <em>Beyond the Aggregate: Trust and Distrust in Generative AI Across Technical Reddit Communities and Time</em>.
             </p>
           </article>
           <article>
