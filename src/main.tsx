@@ -220,7 +220,7 @@ function App() {
               target="_blank"
               rel="noreferrer"
             >
-              Read the research paper ↗
+              Read Paper ↗
             </a>{" "}
             <a
               href="https://github.com/ivyhongzhan/genai-trust-reddit-analysis"
