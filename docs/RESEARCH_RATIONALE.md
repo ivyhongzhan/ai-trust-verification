@@ -71,4 +71,4 @@ These primary records were checked online on 6 November 2026. The SSRN page was 
 
 ## Potential contribution, not established novelty
 
-The current deliverable is a working, inspectable research artifact with an explicit claim–evidence–judgment model and a falsifiable evaluation protocol. It is not yet a validated intervention or a demonstrated novel research contribution. Before publication, broaden related-work review to provenance interfaces, claim verification workbenches, information literacy, and collaborative sensemaking; compare actual workflows and establish the design gap. This is currently an individual review tool, not a collaborative CSCW system.
+The current deliverable is a working, inspectable research artifact with an explicit claim–evidence–judgment model and a falsifiable evaluation protocol. It is not yet a validated intervention or a demonstrated novel research contribution. Before publication, broaden related-work review to provenance interfaces, claim verification workbenches, information literacy, and collaborative sensemaking; compare actual workflows and establish the design gap. This is currently an individual review tool.
