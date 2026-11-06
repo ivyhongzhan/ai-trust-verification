@@ -11,7 +11,7 @@ The target is discerning review, not increased trust. A careful unresolved judgm
 
 ## Connection to Beyond the Aggregate
 
-Zhan’s *Beyond the Aggregate: Trust and Distrust in Generative AI Across Technical Reddit Communities and Time* is a separate secondary-analysis manuscript (under review at PACM HCI/CSCW according to the author; not an accepted publication). [Public preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7671698); [research repository](https://github.com/ivyhongzhan/genai-trust-reddit-analysis).
+Zhan’s *Beyond the Aggregate: Trust and Distrust in Generative AI Across Technical Reddit Communities and Time* is a separate secondary-analysis manuscript (under review at PACM HCI/CSCW according to the author). [Public preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7671698); [research repository](https://github.com/ivyhongzhan/genai-trust-reddit-analysis).
 
 The manuscript was reviewed through its local Introduction, Methods, Discussion, Limitations, and Conclusion on 6 November 2026. It reports 8,519 canonical-label classification records from five prespecified technical Reddit communities, with 8,520 source records including one missing label. Dimensions use a separate archive of 4,964 parser-clean records. Archives have distinct denominators and were not joined. The contribution concerns community/time-stratified description and auditable measurement boundaries, not a product intervention or causal account of trust.
 
