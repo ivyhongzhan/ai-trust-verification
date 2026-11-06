@@ -108,9 +108,7 @@ The app makes no AI requests, fetches no sources, and collects no analytics. Inp
 - Synthetic tasks and automated accessibility checks do not establish real-world usability.
 - Research novelty requires broader comparison with verification and provenance workbenches.
 
-## Authorship and AI assistance
 
-Hong Zhan is the project owner and research applicant. OpenAI Codex assisted with implementation, documentation drafting, literature lookup and automated verification in November 2026. The project must not be described as unaided implementation, an evaluated HCI intervention, or a published empirical contribution. The owner should review the code and study protocol and be able to explain them before using this project in applications. No study results, participants, interviews or statistical findings were generated.
 
 ## Owner walkthrough
 
