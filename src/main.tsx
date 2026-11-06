@@ -209,8 +209,8 @@ function App() {
         </div>
         <section className="lineage" aria-label="Research trajectory">
           <article>
-            <span>01 / PAPER 1</span>
-            <strong>Context matters in discourse</strong>
+            <span>01 / RESEARCH FOUNDATION</span>
+            <strong>Beyond the Aggregate: Trust and Distrust in Generative AI Across Technical Reddit Communities and Time</strong>
             <p>
               8,519 classified records across five technical communities.
               Discourse labels do not measure personal trust.
@@ -220,7 +220,7 @@ function App() {
               target="_blank"
               rel="noreferrer"
             >
-              Read Paper 1 ↗
+              Read the research paper ↗
             </a>{" "}
             <a
               href="https://github.com/ivyhongzhan/genai-trust-reddit-analysis"
@@ -287,7 +287,7 @@ function App() {
             <div className="eyebrow">RESEARCH BRIEF</div>
             <h2>From discourse to observable review practices</h2>
             <p>
-              <strong>Paper 1:</strong>{" "}
+              <strong>Prior research:</strong>{" "}
               <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7671698">
                 Beyond the Aggregate: Trust and Distrust in Generative AI Across
                 Technical Reddit Communities and Time
@@ -425,8 +425,8 @@ function App() {
                 <h2>Same answer. Different consequences of use.</h2>
                 <p>
                   Explore whether intended use changes what you need to check.
-                  These fictional scenarios are not explanations of community
-                  differences in Paper 1.
+                  These fictional scenarios do not explain community differences
+                  described in the prior research.
                 </p>
               </div>
               <label>
